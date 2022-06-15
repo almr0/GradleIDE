@@ -6,8 +6,8 @@
   <h3 align="center">GradleIDE</h3>
 
   <p align="center">
-    IDE for building APK applications right on your smartphone
-    <br/>
+    Многофункциональная IDE, которая может пособрать APK-приложение прямо на вашем смартфоне
+      <br/>
     <br/>
   </p>
 </p>
@@ -21,4 +21,5 @@
 
 ## Отдельная благодарность
 
-- (deenu713) [https://github.com/deenu713]
+- [deenu713](https://github.com/deenu713) за разработанный им компилятор GradleIDE
+- []
