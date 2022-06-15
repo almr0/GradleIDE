@@ -14,9 +14,18 @@
 
 ## English version README
 
-- [Click to go to](https://github.com/almr0/GradleIDE/README-EN.MD)
+- [Click to go to](https://github.com/almr0/GradleIDE/blob/main/README-EN.MD)
 
 ## О проекте
+
+GradleIDE — это мобильная среда разработки приложений под Android.
+Мы очень благодарны тем, кто начинал делать этот продукт. Название проекта менять мы не стали.
+Если у Вас возникали или возникли какие-либо проблемы при использовании Gradle IDE, то создавайте Issue, мы постараемся исправить все недостатки 
+
+## Что на данный момент реализовано
+
+- [x] Gradle Compiler
+- [x] Менеджер проектов
 
 ## Комьюнити GradleIDE
 
