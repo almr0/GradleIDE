@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <a href="https://github.com/almr0/GradleIDE">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -13,11 +12,13 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/almr0/GradleIDE/total) ![Contributors](https://img.shields.io/github/contributors/almr0/GradleIDE?color=dark-green) ![Issues](https://img.shields.io/github/issues/almr0/GradleIDE) ![License](https://img.shields.io/github/license/almr0/GradleIDE) 
+<p align="center">
+ <img src="https://img.shields.io/badge/Minimum%20SDK-21-%23ff5252" alt="Минимальный SDK"/>
+</p>
 
-## About The Project
+## О проекте
 
 
-## Built With
+## Отдельная благодарность
 
-deenu713
+- (deenu713) [https://github.com/deenu713]
