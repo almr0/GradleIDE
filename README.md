@@ -12,7 +12,9 @@
   </p>
 </p>
 
+## English version README
 
+- [Click to go to](https://github.com/almr0/GradleIDE/README-EN.MD)
 
 ## О проекте
 
