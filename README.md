@@ -18,8 +18,11 @@
 
 ## О проекте
 
+## Комьюнити GradleIDE
+
+- [Telegram](https://t.me/gradleide)
 
 ## Отдельная благодарность
 
 - [deenu713](https://github.com/deenu713) за разработанный им компилятор GradleIDE
-- []
+- [Rosemoe](https://github.com/Rosemoe) за разработанный им редактор кода (Sora Editor)
